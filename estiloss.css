@@ -1,0 +1,118 @@
+#cabecera{
+    width: 1000px;
+    border: black 2px solid;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    margin-left: auto;
+    margin-right: auto;
+
+    -webkit-box-shadow:8px 4px 4px black;
+    -moz-box-shadow:8px 4px 4px black;
+    box-shadow:8px 4px 4px black;
+
+
+}
+#cabecera h1{
+    text-align: center;
+    
+}
+#cabecera h2{
+    text-align: center;
+    
+}
+#cabecera h3{
+    text-align: center;
+
+}
+#cabecera h4{
+    position: absolute; 
+    top: 30px; 
+    right: 350px;;
+    
+}
+#cabecera p{
+    border: black 1px solid;
+    position: absolute; 
+    top: 60px; 
+    right: 300px;;
+}
+
+#imagenEsc{
+    position: absolute; 
+    top: 40px; 
+    left: 250px;
+    width: 150px;
+}
+
+
+table.blueTable {
+    border: 1px solid #061621;
+    background-color:  #f4fcfc  ;
+    width: 1000px;
+    text-align: left;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+    -webkit-box-shadow:8px 4px 4px black;
+    -moz-box-shadow:8px 4px 4px black;
+    box-shadow:8px 4px 4px black;
+  }
+  table.blueTable td, table.blueTable th {
+    border: 1px solid #021323;
+    padding: 3px 2px;
+  }
+  table.blueTable tbody td {
+    font-size: 13px;
+    color: #001830;
+  }
+  table.blueTable tr:nth-child(even) {
+    background: #77a7d1;
+  }
+  table.blueTable tfoot td {
+    font-size: 14px;
+  }
+  table.blueTable tfoot .links {
+    text-align: right;
+  }
+  table.blueTable tfoot .links a{
+    display: inline-block;
+    background: #1C6EA4;
+    color: #FFFFFF;
+    padding: 2px 8px;
+    border-radius: 5px;
+  }
+
+  #visor_imagenes {
+    text-align: left;
+  }
+  
+.blanco-negro0{
+    color: #FFFFFF;
+    width: 150px;
+    height: 150px;
+    background: rgb(12, 12, 12); 
+    -moz-border-radius: 70px; 
+    -webkit-border-radius: 70px; 
+    border-radius: 70px;
+    
+    position: relative;
+    top: 41px; 
+    left: 160px; 
+}
+
+  .blanco-negro {
+    color: #FFFFFF;
+    width: 150px;
+    height: 150px;
+    background: rgb(12, 12, 12); 
+    -moz-border-radius: 70px; 
+    -webkit-border-radius: 70px; 
+    border-radius: 70px;
+    
+    position: relative;
+    top: 0px; 
+    left: 180px;
+  }
+
